@@ -6,4 +6,4 @@
 
 ##### If you'd like to use similar ideas to develop your project for the certificate, please message me first :) I hope my own ideas can give you some good ones or insight into the types of problems to solve for the certificate. Also, if you have any comments on the projects, advice, tips for improvement, let me know! :D 
 
-##### Link to the IBM Certificate: https://www.coursera.org/professional-certificates/ibm-machine-learning
+##### Link to the IBM Certificate: https://www.coursera.org/professional-certificates/ibm-machine-learning (Languages and libraries involved: Python, Scikit-learn, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn and more)
