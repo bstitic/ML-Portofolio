@@ -6,4 +6,4 @@
 
 ##### If you'd like to use similar ideas to develop your project for the certificate, please message me first :) I hope my own ideas can give you some good ones or insight into the types of problems to solve for the certificate. Also, if you have any comments on the projects, advice, tips for improvement, let me know! :D 
 
-##### Also, the data used for each project is available in each course and described in the reports/notebooks. Link to the IBM Certificate: https://www.coursera.org/professional-certificates/ibm-machine-learning (languages and libraries involved: Python, Scikit-learn, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn and more)
+##### Also, the data used for each project is available in each course and described in the reports/notebooks. The same can be said about some files like colorsetup.py. Link to the IBM Certificate: https://www.coursera.org/professional-certificates/ibm-machine-learning (languages and libraries involved: Python, Scikit-learn, Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn and more)
